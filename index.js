@@ -27,5 +27,5 @@ function RolarParaEsquerda() {
 }
 
 document.getElementById("botaoEmenta").addEventListener("click", function() {
-    window.location.href = "https://www.youtube.com/watch?v=j2CcohYSIpY"; // Altere para a URL desejada
+    window.location.href = "https://www.youtube.com/watch?v=Jj0qlpJEy8U"; // Altere para a URL desejada
 });
